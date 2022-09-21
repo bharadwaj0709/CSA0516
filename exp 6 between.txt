@@ -1,0 +1,20 @@
+mysql> select * from student;
++-------+------------+--------+------+----------+-----------+
+| regno | Name       | gender | Dob  | mobileno | city      |
++-------+------------+--------+------+----------+-----------+
+|    14 | bharadhwaj | m      |   23 |   123456 | chittoor  |
+|   189 | bharadwaj  | m      | 2002 |     9989 | chittoor  |
+|   234 | sridhar    | m      | 2003 |     7604 | hyderabad |
+|   343 | hari       | f      | 2004 |     9945 | nellore   |
++-------+------------+--------+------+----------+-----------+
+4 rows in set (0.00 sec)
+
+mysql> select city from student where Dob between 2000 and 2005;
++-----------+
+| city      |
++-----------+
+| chittoor  |
+| hyderabad |
+| nellore   |
++-----------+
+3 rows in set (0.05 sec)
