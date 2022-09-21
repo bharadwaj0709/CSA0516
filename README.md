@@ -9,4 +9,5 @@ SELECT with various clauses - IN-(https://github.com/bharadwaj0709/CSA0516-DBMS/
 ## EXPERIMENT 1
 DDL COMMANDS
                              CREATE(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/1.jpeg)
-                             ALTER(
+                             INSERT(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/2.jpeg)
+                             
