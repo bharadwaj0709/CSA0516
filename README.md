@@ -10,4 +10,5 @@ SELECT with various clauses - IN-(https://github.com/bharadwaj0709/CSA0516-DBMS/
 DML COMMANDS - INSERT(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/dml%20(insert%20into).txt)
                SELECT(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/dml%20(select).txt)
 ## EXPERIMENT 4
-DML COMMANDS - UPDATE(
+DML COMMANDS - UPDATE(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/dml(update).txt)
+               DELETE(
