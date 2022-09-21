@@ -1,0 +1,26 @@
+mysql> select*from persons;
++------+------------+-------------+-----------+--------------------+
+| p_id | first_name | last_name   | address   | city               |
++------+------------+-------------+-----------+--------------------+
+|    3 | raghu      | ram         | Tamilnadu | chennai            |
+|    1 | shilpa     | shetty      | telangana | hyderabad          |
+|    2 | vijay      | devarakonda | karnataka | bangalore          |
+|    4 | anushka    | sharma      | andhra    | vizag              |
+|    5 | ram        | pothineni   | kerala    | thiruvananthapuram |
++------+------------+-------------+-----------+--------------------+
+5 rows in set (0.00 sec)
+
+mysql> delete from persons
+    -> where p_id=1;
+Query OK, 1 row affected (0.05 sec)
+
+mysql> select*from persons;
++------+------------+-------------+-----------+--------------------+
+| p_id | first_name | last_name   | address   | city               |
++------+------------+-------------+-----------+--------------------+
+|    3 | raghu      | ram         | Tamilnadu | chennai            |
+|    2 | vijay      | devarakonda | karnataka | bangalore          |
+|    4 | anushka    | sharma      | andhra    | vizag              |
+|    5 | ram        | pothineni   | kerala    | thiruvananthapuram |
++------+------------+-------------+-----------+--------------------+
+4 rows in set (0.00 sec)
