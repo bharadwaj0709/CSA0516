@@ -8,4 +8,5 @@ SELECT with various clauses - IN-(https://github.com/bharadwaj0709/CSA0516-DBMS/
                               BETWEEN(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/exp%206%20between.txt)
 ## EXPERIMENT 1
 DDL COMMANDS
-                             CREATE(
+                             CREATE(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/1.jpeg)
+                             ALTER(
