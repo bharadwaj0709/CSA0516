@@ -1,0 +1,24 @@
++------+------------+-------------+-----------+-----------+
+| p_id | first_name | last_name   | address   | city      |
++------+------------+-------------+-----------+-----------+
+|    3 | raghu      | ram         | chennai   | chennai   |
+|    1 | shilpa     | shetty      | telangana | hyderabad |
+|    2 | vijay      | devarakonda | karnataka | bangalore |
+|    4 | anushka    | sharma      | andhra    | vizag     |
++------+------------+-------------+-----------+-----------+
+4 rows in set (0.00 sec)
+
+mysql> insert into persons values('5','ram','pothineni','kerala','thiruvananthapuram');
+Query OK, 1 row affected (0.72 sec)
+
+mysql> select * from persons;
++------+------------+-------------+-----------+--------------------+
+| p_id | first_name | last_name   | address   | city               |
++------+------------+-------------+-----------+--------------------+
+|    3 | raghu      | ram         | chennai   | chennai            |
+|    1 | shilpa     | shetty      | telangana | hyderabad          |
+|    2 | vijay      | devarakonda | karnataka | bangalore          |
+|    4 | anushka    | sharma      | andhra    | vizag              |
+|    5 | ram        | pothineni   | kerala    | thiruvananthapuram |
++------+------------+-------------+-----------+--------------------+
+5 rows in set (0.00 sec)
