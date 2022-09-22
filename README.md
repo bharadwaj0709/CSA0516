@@ -27,4 +27,5 @@ SUBQUERY(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/Experiment-8%20
 JOINS(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/Experiment-9(joins).txt)
 ## EXPERIMENT 10 
 VIEW INDEX (https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/Experiment%2010%20(view%2Cindex)%20.txt)
-
+## EXPERIMENT 22
+BOOK PUBLISHER(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/experiment%2022%20book%20publisher)
