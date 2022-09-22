@@ -13,4 +13,6 @@ DML COMMANDS - INSERT(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/dm
 DML COMMANDS - UPDATE(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/dml(update).txt)
                DELETE(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/dml(delete).txt)
 ## EXPERIMENT 1
-DDL COMMANDS - 
+DDL COMMANDS - CREATE(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/DDL%20Command%20(Create%20Table)%20exp%201.png)
+               ALTER(
+
