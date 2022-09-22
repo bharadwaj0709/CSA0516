@@ -22,6 +22,8 @@ DDL COMMANDS WITH CONSTAINTS - PRIMARY(https://github.com/bharadwaj0709/CSA0516-
 ## EXPERIMENT 7
 SELECT WITH VARIOUS CLAUSES - GROUP BY HAVING ORDER(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/EXPERIMENT%207(%20GROUP%20BY%20AND%20ORDER%20BY).txt)
 ## EXPERIMENT 8
+SUBQUERY(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/Experiment-8%20(sub%20query).txt)
+## EXPERIMENT 9
 
 
 
