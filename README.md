@@ -18,5 +18,7 @@ DDL COMMANDS - CREATE(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/DD
                DROP(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/DDL%20Command%20(Drop)%20exp1.png)
                TRUNCATE(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/DDL%20Command(truncate)%20exp%201.png)
 ## EXPERIMENT 2
-DDL COMMANDS WITH CONSTAINTS - PRIMARY(
+DDL COMMANDS WITH CONSTAINTS - PRIMARY(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/primary%20key%20exp2)
+## EXPERIMENT 7
+
 
