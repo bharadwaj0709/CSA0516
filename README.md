@@ -31,3 +31,5 @@ VIEW INDEX (https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/Experiment%2
 BOOK PUBLISHER(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/experiment%2022%20book%20publisher)
 ## EXPERIMENT 12
 SIMPLE PROGRAMMING - REPEAT,WHILE(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/experiment%2012.txt)
+## EXPERIMENT 13
+TCL COMMANDS - (https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/experiment%2013.txt)
