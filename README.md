@@ -33,3 +33,5 @@ BOOK PUBLISHER(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/experimen
 SIMPLE PROGRAMMING - REPEAT,WHILE(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/experiment%2012.txt)
 ## EXPERIMENT 13
 TCL COMMANDS - (https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/experiment%2013.txt)
+## EXPERIMENT 23
+GENERAL HOSPITAL(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/Experiment%2023%20(General%20Hospital)%20.txt)
