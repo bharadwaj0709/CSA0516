@@ -26,5 +26,5 @@ SUBQUERY(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/Experiment-8%20
 ## EXPERIMENT 9
 JOINS(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/Experiment-9(joins).txt)
 ## EXPERIMENT 10 
-VIEW INDEX (
+VIEW INDEX (https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/Experiment%2010%20(view%2Cindex)%20.txt)
 
