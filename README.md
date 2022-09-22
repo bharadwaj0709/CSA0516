@@ -35,3 +35,5 @@ SIMPLE PROGRAMMING - REPEAT,WHILE(https://github.com/bharadwaj0709/CSA0516-DBMS/
 TCL COMMANDS - (https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/experiment%2013.txt)
 ## EXPERIMENT 23
 GENERAL HOSPITAL(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/Experiment%2023%20(General%20Hospital)%20.txt)
+## EXPERIMENT 24
+CAR RENTAL COMPANY(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/Experiment%2024%20(Car%20Rental%20Company).txt)
