@@ -14,5 +14,6 @@ DML COMMANDS - UPDATE(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/dm
                DELETE(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/dml(delete).txt)
 ## EXPERIMENT 1
 DDL COMMANDS - CREATE(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/DDL%20Command%20(Create%20Table)%20exp%201.png)
-               ALTER(
+               ALTER(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/DDl%20Command%20(Alter)%20exp%201.png)
+               DROP(
 
