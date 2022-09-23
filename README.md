@@ -47,5 +47,8 @@ STUDENT PROGRESS(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/Experim
 REPEAT, REPLICATE(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/Experiment%2017(repeat%2Creplicate).txt)
 ## EXPERIMENT 11
 CASE,IF,LEAVE(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/Experiment%2011(CASE%2CIF%2CITERATE%2CLEAVE%2CLOOP).txt)
+## EXPERIMENT 14
+DCL COMMANDS(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/Experiment%2014%20(DCL%20COMMANDS).txt)
+
 
 
