@@ -37,3 +37,6 @@ TCL COMMANDS - (https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/experime
 GENERAL HOSPITAL(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/Experiment%2023%20(General%20Hospital)%20.txt)
 ## EXPERIMENT 24
 CAR RENTAL COMPANY(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/Experiment%2024%20(Car%20Rental%20Company).txt)
+## EXPERIMENT 19
+DATABASE CONNECTIIVITY - USING JAVA AND MY SQL(https://github.com/bharadwaj0709/CSA0516-DBMS/blob/main/Experiment%2019.txt)
+
